@@ -28,7 +28,7 @@ The Network Scanner is a Bash script that scans a range of IP addresses to ident
 
 3. Run the script:
     ```bash
-    ./network_scanner.sh
+    ./stework_scanner.sh
     ```
 
 4. Follow the prompts to enter the IP range and start/stop addresses. The script will scan the specified range and log the results to `outputs.txt`.
